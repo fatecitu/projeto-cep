@@ -7,12 +7,15 @@ Este é um projeto de exemplo que demonstra como criar um serviço de consulta d
 O projeto consiste em três principais componentes:
 
 - `index.html`: A página da web que contém o formulário de consulta de CEP e a exibição das informações de endereço.
-- `style.css`: O arquivo CSS para estilizar a interface.
-- `script.js`: O arquivo JavaScript que lida com a lógica de consulta do CEP e exibição das informações.
+- `css\estilo.css`: O arquivo CSS para estilizar a interface.
+- `js\cep.js`: O arquivo JavaScript que lida com a lógica de consulta do CEP e exibição das informações.
 
 ## Uso
 
 Para usar este projeto localmente, basta clonar este repositório e abrir o arquivo `index.html` no seu navegador.
+
+## Acesso online
+O projeto pode ser consultado online neste [link](https://fatecitu.github.io/projeto-cep/)
 
 ## Contribuindo
 
