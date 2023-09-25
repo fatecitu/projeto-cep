@@ -5,7 +5,7 @@
  * @returns {Objeto|null} - Um objeto contendo os dados do CEP ou nulo.
  */
 async function obtemCep(cep){
-    const url = `http://viacep.com.br/ws/${cep}/json/`
+    const url = `https://viacep.com.br/ws/${cep}/json/`
     try {
         const response = await fetch(url)
         const data = await response.json()
